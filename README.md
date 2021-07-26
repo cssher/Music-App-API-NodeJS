@@ -1,4 +1,4 @@
-# Zypher-Music-Project
+# NodeJS-Backend-Music-Api
 
 Steps to run this project:
 
